@@ -1,38 +1,43 @@
-# Kurisu · 安全研究者
+<div align="center">
 
-> Web 渗透 | AI 辅助攻防 | 红队路线修炼中
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=xiaoyang-xyc&theme=fuji&dithering=true&screen_effect=false&pixelate_avatar=true" alt="pixel stats" />
 
-## About
+# 👾 xiaoyang-xyc
 
-信息安全专业在读。主攻 Web 渗透与 AI 辅助攻防，习惯把方法论沉淀成可复用的流程：AI 负责重复劳动，人负责判断与决策。
+> 渗透测试 / AI 安全 / 自动化武器库
 
-围绕 **CVE / CNVD / EDU 安全平台 / 补天** 进行授权漏洞挖掘。长期目标：**红队渗透测试工程师**。
+[![Skills](https://img.shields.io/badge/Skills-30%2B-red?style=flat-square)](https://github.com/xiaoyang-xyc/skills)
+[![Memory](https://img.shields.io/badge/Memory-56%20files-blue?style=flat-square)](https://github.com/xiaoyang-xyc/agent-memory)
+[![Blog](https://img.shields.io/badge/Blog-xycovo.com-green?style=flat-square)](https://xycovo.com)
 
-## Tech Stack
+</div>
 
-**Web 安全**: OWASP Top10 · SQL 注入 · XSS · SSRF · 文件上传 · 反序列化 · WAF 绕过
+---
 
-**渗透测试**: 信息收集 → 漏洞利用 → getshell → 提权 → 报告（Burp Suite · sqlmap · Nmap · 蚁剑/冰蝎）
+### 🛠️ 技术栈
 
-**安全防御**: 华为防火墙 · 安全策略 · NAT · IPSec/SSL VPN · 双机热备
+```
+渗透框架    MSF · Cobalt Strike · Viper
+自动化      sqlmap · nuclei · AWVS · Burp Suite
+武器库      30+ AI Skills · Kali MCP · 102 Hack-Skills
+语言        Python · PHP · SQL · Bash
+环境        Docker · Kali VM · Clash · Claude Code
+```
 
-**系统运维**: Linux 加固 · Docker · Ansible · MySQL · Nginx · 雷池 WAF · HFish 蜜罐
+### 📂 项目
 
-**网络**: OSPF · VLAN · STP · VRRP · 链路聚合 · 路由策略
-
-**编程**: Python · C · JavaScript · Shell · HTML/CSS
-
-## Projects
-
-| 项目 | 说明 |
+| 仓库 | 说明 |
 |------|------|
-| [AI-Team](https://github.com/xiaoyang-xyc/ai-team) | 多模型协同渗透系统（V4 Pro + Flash + K3） |
-| [skills](https://github.com/xiaoyang-xyc/skills) | AI 渗透技能库（28 项，1,700+ 工具） |
-| [xycovo.com](https://github.com/xiaoyang-xyc/xycovo) | 个人博客（Astro 点阵主题） |
+| [skills](https://github.com/xiaoyang-xyc/skills) | AI 渗透测试技能库 — CVE · 红队 · SRC · 代码审计 |
+| [agent-memory](https://github.com/xiaoyang-xyc/agent-memory) 🔒 | AI 多智能体共享记忆 — 方法论 · 知识图谱 · 反馈 |
+| [security-notes](https://github.com/xiaoyang-xyc/-) | 安全课程笔记 — 12课完整笔记+作业答案 |
 
-## Links
+### 🎯 当前方向
 
-- Blog: [xycovo.com](https://xycovo.com)
-- GitHub: [github.com/xiaoyang-xyc](https://github.com/xiaoyang-xyc)
+- 🔴 **SRC 漏洞挖掘** — EDUSRC / 补天 / CNVD
+- 🟡 **AI 安全自动化** — Claude Code Workflow · 100-Agent 渗透
+- 🟢 **红队攻防** — Cobalt Strike · 横向移动 · 域渗透
 
-> 世界线收束范围内，做一只守规矩的白帽子 —— El Psy Kongroo
+---
+
+*Powered by Claude Code + DeepSeek*
