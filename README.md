@@ -36,7 +36,7 @@
 ### 🎯 当前方向
 
 - 🔴 **SRC 漏洞挖掘** — EDUSRC / 补天 / CNVD
-- 🟡 **AI 安全自动化** — Claude Code Workflow · 100-Agent 渗透
+- 🟡 **AI 安全自动化** — Claude Code Workflow
 - 🟢 **红队攻防** — Cobalt Strike · 横向移动 · 域渗透
 
 ---
