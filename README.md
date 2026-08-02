@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=xiaoyang-xyc&theme=fuji&dithering=true&screen_effect=false&pixelate_avatar=true" alt="pixel stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoyang-xyc/xiaoyang-xyc/output/github-stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaoyang-xyc/xiaoyang-xyc/output/github-stats-light">
+  <img alt="pixel stats" src="https://raw.githubusercontent.com/xiaoyang-xyc/xiaoyang-xyc/output/github-stats">
+</picture>
 
 # 👾 xiaoyang-xyc
 
