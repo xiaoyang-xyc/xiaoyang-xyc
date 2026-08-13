@@ -1,41 +1,22 @@
-<div align="center">
+# XYC
 
-# 许翊晨 · XYC
+安全方向学生，SRC 猎人（EDUSRC / 补天 / CNVD）。黑盒渗透和白盒审计都做，近一年在把挖洞方法论整理成 AI Agent 能直接加载的技能库。重复劳动会写成工具，实战复盘发在博客上。
 
-**Security Researcher — 渗透测试 / SRC 狩猎 / AI 安全自动化**
+Blog [xycovo.com](https://xycovo.com) · Mail xuyichen2025@outlook.com
 
-[![Blog](https://img.shields.io/badge/Blog-xycovo.com-006cac?style=flat-square)](https://xycovo.com)
-[![Email](https://img.shields.io/badge/Email-xuyichen2025%40outlook.com-c1440e?style=flat-square)](mailto:xuyichen2025@outlook.com)
-[![SRC](https://img.shields.io/badge/SRC-EDUSRC%20%C2%B7%20%E8%A1%A5%E5%A4%A9%20%C2%B7%20CNVD-orange?style=flat-square)](https://xycovo.com)
-
-</div>
-
----
-
-### 👤 关于我
-
-- 🎓 安全方向学生，SRC 猎人（EDUSRC / 补天 / CNVD），有高校与通用型漏洞实战战例
-- 🔍 黑盒渗透 + 白盒审计双修，近一年在把挖洞方法论沉淀成 AI Agent 技能库
-- 🛠️ 喜欢把重复劳动写成工具：信息收集流水线、YAML POC 引擎、渗透看板
-- 📝 实战复盘与技术笔记都在博客：[xycovo.com](https://xycovo.com)
-
-### 🚀 精选项目
+## 项目
 
 | 项目 | 说明 |
 |------|------|
-| [src-recon-tool](https://github.com/xiaoyang-xyc/src-recon-tool) | SRC 信息收集自动化 — 子域枚举 / 资产测绘 / 指纹识别 / YAML POC 模板引擎 / LLM 辅助，单次全流程约 30 分钟，已用于 EDUSRC 实战 |
-| [blackbox](https://github.com/xiaoyang-xyc/blackbox) | 黑盒安全测试技能集 — 140 个 AI Agent 渗透 playbook，按攻击链组织（侦察 → 注入 → 提权 → 横向） |
-| [whitebox](https://github.com/xiaoyang-xyc/whitebox) | 白盒代码审计技能集 — 35 个源码审计 / 逆向工程 / 密码分析 / 取证 playbook |
-| [pentest-ops](https://github.com/xiaoyang-xyc/pentest-ops) | 渗透作战指挥台 — 把渗透情报档案渲染成可视化作战看板，桌面插件 / Web dashboard / 静态页三种形态共享一份数据 |
+| [src-recon-tool](https://github.com/xiaoyang-xyc/src-recon-tool) | SRC 信息收集工具：子域枚举、资产测绘、指纹识别、YAML POC 模板引擎。单次全流程约 30 分钟，EDUSRC 实战在用 |
+| [blackbox](https://github.com/xiaoyang-xyc/blackbox) | 黑盒安全测试技能集，140 个渗透 playbook，按攻击链组织 |
+| [whitebox](https://github.com/xiaoyang-xyc/whitebox) | 白盒代码审计技能集，35 个源码审计、逆向、密码分析 playbook |
+| [pentest-ops](https://github.com/xiaoyang-xyc/pentest-ops) | 渗透作战指挥台。把渗透情报档案渲染成可视化作战看板，有桌面插件、Web dashboard、静态页三种形态 |
 
-### 🛠️ 技术栈
+## 技术栈
 
-**攻防**：Burp Suite · sqlmap · nuclei · Metasploit · Cobalt Strike · Frida
-**开发**：Python · TypeScript · PHP · Bash · Astro
-**方向**：Web 漏洞挖掘 · SRC 狩猎 · Java 白盒审计 · LLM/Agent 安全 · 攻击链自动化
+Burp Suite、sqlmap、nuclei、Metasploit、Cobalt Strike。开发主要用 Python 和 TypeScript，也写 PHP 和 Bash。方向是 Web 漏洞挖掘、Java 白盒审计、LLM/Agent 安全。
 
 ---
 
-<div align="center">
-<sub>⚔️ 所有安全测试均在授权范围内进行 · 漏洞已按流程报送至对应 SRC / CNVD</sub>
-</div>
+所有安全测试均在授权范围内进行，漏洞已按流程报送至对应 SRC / CNVD。
