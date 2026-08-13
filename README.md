@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xiaoyang-xyc&hide_border=true&locale=zh_Hans)](https://github.com/xiaoyang-xyc)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xiaoyang-xyc&hide_border=true&locale=zh_Hans&card_width=500)](https://github.com/xiaoyang-xyc)
 
 </div>
 
