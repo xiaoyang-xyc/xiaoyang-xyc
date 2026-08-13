@@ -1,5 +1,3 @@
-# XYC
-
 安全方向学生，SRC 猎人（EDUSRC / 补天 / CNVD）。黑盒渗透和白盒审计都做，近一年在把挖洞方法论整理成 AI Agent 能直接加载的技能库。重复劳动会写成工具，实战复盘发在博客上。
 
 Blog [xycovo.com](https://xycovo.com) · Mail xuyichen2025@outlook.com
