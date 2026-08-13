@@ -40,8 +40,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xiaoyang-xyc&hide_border=true&locale=zh_Hans)](https://github.com/xiaoyang-xyc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyang-xyc&layout=compact&hide_border=true&langs_count=8)](https://github.com/xiaoyang-xyc)
-
 </div>
 
 ---
