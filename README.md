@@ -1,49 +1,51 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoyang-xyc/xiaoyang-xyc/output/github-stats">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaoyang-xyc/xiaoyang-xyc/output/github-stats-light">
-  <img alt="pixel stats" src="https://raw.githubusercontent.com/xiaoyang-xyc/xiaoyang-xyc/output/github-stats">
-</picture>
+# 许翊晨 · XYC
 
-# 👾 xiaoyang-xyc
+**Security Researcher — 渗透测试 / SRC 狩猎 / AI 安全自动化**
 
-> 渗透测试 / AI 安全 / 自动化武器库
-
-[![Skills](https://img.shields.io/badge/Skills-30%2B-red?style=flat-square)](https://github.com/xiaoyang-xyc/skills)
-[![SRC-Recon](https://img.shields.io/badge/SRC-Recon%20Tool-orange?style=flat-square)](https://github.com/xiaoyang-xyc/src-recon-tool)
-[![Blog](https://img.shields.io/badge/Blog-xycovo.com-green?style=flat-square)](https://xycovo.com)
+[![Blog](https://img.shields.io/badge/Blog-xycovo.com-006cac?style=flat-square)](https://xycovo.com)
+[![Email](https://img.shields.io/badge/Email-xuyichen2025%40outlook.com-c1440e?style=flat-square)](mailto:xuyichen2025@outlook.com)
+[![SRC](https://img.shields.io/badge/SRC-EDUSRC%20%C2%B7%20%E8%A1%A5%E5%A4%A9%20%C2%B7%20CNVD-orange?style=flat-square)](https://xycovo.com)
 
 </div>
 
 ---
 
+### 👤 关于我
+
+- 🎓 安全方向学生，SRC 猎人（EDUSRC / 补天 / CNVD），有高校与通用型漏洞实战战例
+- 🔍 黑盒渗透 + 白盒审计双修，近一年在把挖洞方法论沉淀成 AI Agent 技能库
+- 🛠️ 喜欢把重复劳动写成工具：信息收集流水线、YAML POC 引擎、渗透看板
+- 📝 实战复盘与技术笔记都在博客：[xycovo.com](https://xycovo.com)
+
+### 🚀 精选项目
+
+| 项目 | 说明 |
+|------|------|
+| [src-recon-tool](https://github.com/xiaoyang-xyc/src-recon-tool) | SRC 信息收集自动化 — 子域枚举 / 资产测绘 / 指纹识别 / YAML POC 模板引擎 / LLM 辅助，单次全流程约 30 分钟，已用于 EDUSRC 实战 |
+| [blackbox](https://github.com/xiaoyang-xyc/blackbox) | 黑盒安全测试技能集 — 140 个 AI Agent 渗透 playbook，按攻击链组织（侦察 → 注入 → 提权 → 横向） |
+| [whitebox](https://github.com/xiaoyang-xyc/whitebox) | 白盒代码审计技能集 — 35 个源码审计 / 逆向工程 / 密码分析 / 取证 playbook |
+| [pentest-ops](https://github.com/xiaoyang-xyc/pentest-ops) | 渗透作战指挥台 — 把渗透情报档案渲染成可视化作战看板，桌面插件 / Web dashboard / 静态页三种形态共享一份数据 |
+
 ### 🛠️ 技术栈
 
-```
-渗透框架    MSF · Cobalt Strike · Viper
-自动化      sqlmap · nuclei · AWVS · Burp Suite
-武器库      30+ AI Skills · Kali MCP · 102 Hack-Skills
-语言        Python · PHP · SQL · Bash
-环境        Docker · Kali VM · Clash · Claude Code
-```
+**攻防**：Burp Suite · sqlmap · nuclei · Metasploit · Cobalt Strike · Frida
+**开发**：Python · TypeScript · PHP · Bash · Astro
+**方向**：Web 漏洞挖掘 · SRC 狩猎 · Java 白盒审计 · LLM/Agent 安全 · 攻击链自动化
 
-### 📂 项目
+### 📊 活跃度
 
-| 仓库 | 说明 |
-|------|------|
-| [src-recon-tool](https://github.com/xiaoyang-xyc/src-recon-tool) | SRC 信息收集自动化 — 子域枚举 · 资产测绘 · YAML POC 引擎 · LLM 辅助 |
-| [skills](https://github.com/xiaoyang-xyc/skills) | AI 渗透测试技能库 — CVE · 红队 · SRC · 代码审计 |
-| [agent-memory](https://github.com/xiaoyang-xyc/agent-memory) 🔒 | AI 多智能体共享记忆 — 方法论 · 知识图谱 · 反馈 |
-| [security-learning-notes](https://github.com/xiaoyang-xyc/security-learning-notes) 🔒 | 安全学习笔记 |
-| [xycovo](https://github.com/xiaoyang-xyc/xycovo) 🔒 | 个人博客（线上 xycovo.com） |
+<div align="center">
 
-### 🎯 当前方向
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xiaoyang-xyc&hide_border=true&locale=zh_Hans)](https://github.com/xiaoyang-xyc)
 
-- 🔴 **SRC 漏洞挖掘** — EDUSRC / 补天 / CNVD
-- 🟡 **AI 安全自动化** — Claude Code Workflow
-- 🟢 **红队攻防** — Cobalt Strike · 横向移动 · 域渗透
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyang-xyc&layout=compact&hide_border=true&langs_count=8)](https://github.com/xiaoyang-xyc)
+
+</div>
 
 ---
 
-*Powered by Claude Code + DeepSeek*
+<div align="center">
+<sub>⚔️ 所有安全测试均在授权范围内进行 · 漏洞已按流程报送至对应 SRC / CNVD</sub>
+</div>
