@@ -34,14 +34,6 @@
 **开发**：Python · TypeScript · PHP · Bash · Astro
 **方向**：Web 漏洞挖掘 · SRC 狩猎 · Java 白盒审计 · LLM/Agent 安全 · 攻击链自动化
 
-### 📊 活跃度
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xiaoyang-xyc&hide_border=true&locale=zh_Hans&card_width=500)](https://github.com/xiaoyang-xyc)
-
-</div>
-
 ---
 
 <div align="center">
